@@ -1,79 +1,109 @@
 {
-  "personal_details": {
-    "name": "Oskar Ahlman",
-    "email": "oskar.ahlman@fujitsu.com",
-    "phone": "+46(0)72-143 99 83"
-  },
-  "summary": "Oskar driver digitala innovationsprojekt och leder tvärfunktionella team inom offentlig och privat sektor...",
-  "experience": [
-    {
-      "title": "Digital Arbetsplats för Säkerhetskund",
-      "company": "Tietoevry",
-      "duration": "2022 - 2023",
-      "description": "Kundens mål var att modernisera sin digitala arbetsplats genom att flytta till Microsoft Cloud Services..."
+    "personal_details": {
+        "name": "Oskar Ahlman",
+        "email": "oskar.ahlman@fujitsu.com",
+        "phone": "+46(0)72-143 99 83"
     },
-    {
-      "title": "Affärsplattform för Grön Industri",
-      "company": "Vattenfall",
-      "duration": "2019 - 2021",
-      "description": "Kunden sökte nya sätt att engagera lokala intressenter och bygga upp stöd för deras vindkraftsprojekt genom att använda en lokal leverantörsdatabas och jobbförslagstjänst..."
-    }
-  ],
-  "roles": ["Verksamhetsanalytiker", "Produktägare", "Projektledare", "Agil Coach"],
-  "industries": ["Myndighet och offentlig sektor", "Fossilfri energiproduktion", "Forskning och utbildning", "Transport och logisitik", "Säkerhet och försvar"],
-  "methods_and_processes": ["Design Thinking", "DevOps", "Kanban", "Scrum", "Agile"],
-  "certifications": ["Microsoft 365 Fundamentals", "Azure Fundamentals", "SAFe 5.0 Agilist"],
-  "projects": [
-    {
-      "title": "Digital Arbetsplats för Säkerhetskund",
-      "company": "Tietoevry",
-      "duration": "Juni 2022 - Jan. 2023",
-      "location": "Stockholm",
-      "description": "Kundens mål var att modernisera sin digitala arbetsplats genom att flytta till Microsoft Cloud Services..."
-    }
-    // other projects go here
-  ],
-  "employers": [
-    {
-      "company": "Fujitsu Sweden",
-      "duration": "Jan. 2023 - pågående"
-    },
-    {
-      "company": "Tietoevry",
-      "duration": "Juni 2022 - Jan. 2023"
-    }
-    // other employers go here
-  ],
-  "education": [
-    {
-      "title": "Fristående kurser",
-      "institution": "Umeå Universitet",
-      "courses": ["Digital Innovation", "Kvalitativ forskning i Informatik"],
-      "year": 2020
-    },
-    {
-      "title": "Management (Master)",
-      "institution": "KEDGE Business School (Bordeaux)",
-      "program": "Erasmus Program",
-      "year": "2017 - 2018"
-    }
-    // other education details go here
-  ],
-  "languages": [
-    {
-      "language": "Svenska",
-      "proficiency": "Modersmål"
-    },
-    {
-      "language": "Engelska",
-      "proficiency": "Flytande"
-    }
-  ],
-  "engagements_and_publications": [
-    "Styrelseledamot Peer Digital Sweden",
-    "Digitala Delningsplattformar som Verktyg för Omställning i Krisens Spår",
-    "Digital affärs- och samverkansplattform för lokal förankring och samverkan",
-    "Användarcentrerade Digitala Delningsplattformar",
-    "The Sharing Future - A look and the playing field of the Swedish sharing economy"
-  ]
+    "summary": "Oskar driver digitala innovationsprojekt och leder tvärfunktionella team inom offentlig och privat sektor...",
+    "experience": [
+        {
+            "title": "Operativt Ledningssystem för Trafikverket",
+            "company": "Fujitsu Sweden",
+            "duration": "Jan. 2023 - Pågående",
+            "description": "Kundens behövde ersätta ett tjugotal enskilda applikationer och verktyg med ett system för operativ trafikledning..."
+        },
+        {
+            "title": "Digital Arbetsplats för Säkerhetskund",
+            "company": "Tietoevry",
+            "duration": "2022 - 2023",
+            "description": "Kundens mål var att modernisera sin digitala arbetsplats genom att flytta till Microsoft Cloud Services..."
+        },
+        {
+            "title": "Affärsplattform för Grön Industri",
+            "company": "Vattenfall",
+            "duration": "2019 - 2021",
+            "description": "Kunden sökte nya sätt att engagera lokala intressenter och bygga upp stöd för deras vindkraftsprojekt genom att använda en lokal leverantörsdatabas och jobbförslagstjänst..."
+        }
+    ],
+    "roles": [
+        "Verksamhetsanalytiker",
+        "Produktägare",
+        "Projektledare",
+        "Agil Coach"
+    ],
+    "industries": [
+        "Myndighet och offentlig sektor",
+        "Fossilfri energiproduktion",
+        "Forskning och utbildning",
+        "Transport och logisitik",
+        "Säkerhet och försvar"
+    ],
+    "methods_and_processes": [
+        "Design Thinking",
+        "DevOps",
+        "Kanban",
+        "Scrum",
+        "Agile"
+    ],
+    "certifications": [
+        "Microsoft 365 Fundamentals",
+        "Azure Fundamentals",
+        "SAFe 5.0 Agilist"
+    ],
+    "projects": [
+        {
+            "title": "Digital Arbetsplats för Säkerhetskund",
+            "company": "Tietoevry",
+            "duration": "Juni 2022 - Jan. 2023",
+            "location": "Stockholm",
+            "description": "Kundens mål var att modernisera sin digitala arbetsplats genom att flytta till Microsoft Cloud Services..."
+        }
+        // other projects go here
+    ],
+    "employers": [
+        {
+            "company": "Fujitsu Sweden",
+            "duration": "Jan. 2023 - pågående"
+        },
+        {
+            "company": "Tietoevry",
+            "duration": "Juni 2022 - Jan. 2023"
+        }
+        // other employers go here
+    ],
+    "education": [
+        {
+            "title": "Fristående kurser",
+            "institution": "Umeå Universitet",
+            "courses": [
+                "Digital Innovation",
+                "Kvalitativ forskning i Informatik"
+            ],
+            "year": 2020
+        },
+        {
+            "title": "Management (Master)",
+            "institution": "KEDGE Business School (Bordeaux)",
+            "program": "Erasmus Program",
+            "year": "2017 - 2018"
+        }
+        // other education details go here
+    ],
+    "languages": [
+        {
+            "language": "Svenska",
+            "proficiency": "Modersmål"
+        },
+        {
+            "language": "Engelska",
+            "proficiency": "Flytande"
+        }
+    ],
+    "engagements_and_publications": [
+        "Styrelseledamot Peer Digital Sweden",
+        "Digitala Delningsplattformar som Verktyg för Omställning i Krisens Spår",
+        "Digital affärs- och samverkansplattform för lokal förankring och samverkan",
+        "Användarcentrerade Digitala Delningsplattformar",
+        "The Sharing Future - A look and the playing field of the Swedish sharing economy"
+    ]
 }
