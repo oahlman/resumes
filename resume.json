@@ -58,7 +58,6 @@
             "location": "Stockholm",
             "description": "Kundens mål var att modernisera sin digitala arbetsplats genom att flytta till Microsoft Cloud Services..."
         }
-        // other projects go here
     ],
     "employers": [
         {
@@ -69,7 +68,6 @@
             "company": "Tietoevry",
             "duration": "Juni 2022 - Jan. 2023"
         }
-        // other employers go here
     ],
     "education": [
         {
@@ -87,7 +85,6 @@
             "program": "Erasmus Program",
             "year": "2017 - 2018"
         }
-        // other education details go here
     ],
     "languages": [
         {
